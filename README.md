@@ -10,7 +10,7 @@ Alternatively, you can use a package manager such as winget `winget install pyth
 ### Install pyautogui_reaction-test (<bold>First time only</bold>)
 1. Clone the repository into a folder of choice.
 2. If you haven't done so already, open a terminal in the same folder.
-3. Run `python -m venv venv` to create a virtual environment named "venv".
+3. In the terminal window, Run `python -m venv venv` to create a virtual environment named "venv".
 4. Activate the virtual environment by using the venv activate script which corresponds to your shell:  
   Windows PowerShell:  
   `venv\Scripts\Activate.ps1`  
