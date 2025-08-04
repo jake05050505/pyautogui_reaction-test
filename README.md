@@ -21,5 +21,5 @@ Alternatively, you can use a package manager such as winget `winget install pyth
 6. Now, run `python app.py`.
 
 ## After first install
-After the first install, there is no longer any required setup.  
+After the first install, some steps become unnecessary.  
 To run the app again, repeat steps 2, 4, and 6.
